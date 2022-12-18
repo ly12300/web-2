@@ -1,4 +1,0 @@
-{
-    "key": "pjw",
-    "name": "aaa"
-}

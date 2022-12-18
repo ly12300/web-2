@@ -1,19 +1,17 @@
 {
-  "name": "first-pkg",
-  "type": "module",
+  "name": "dev-sass",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo hello world",
-    "v": "sass --version",
-    "s": "sass src/index.scss out/index.css",
-    "watch": "sass --watch src/index.scss out/index.css"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "v":"sass --version ",
+    "s":"sass src/index.scss out/index.css",
+    "watch":"sass --watch src/index.scss out/index.css"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "axios": "^1.2.0",
-    "sass": "^1.56.1"
+    "sass": "^1.57.0"
   }
 }
